@@ -1,0 +1,29 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50;
+    font-weight: bolder;
+    }
+body {
+    background-color: azure;
+}
+h4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#webcam{
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+}
+img{
+    border-radius: 75px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img:hover{
+    border-radius: 140px;
+}
+#right_footer{
+   position: fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
